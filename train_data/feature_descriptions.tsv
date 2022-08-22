@@ -1,0 +1,82 @@
+Label	description
+SGD	Saccharomyces Genome Database unique gene identifier
+DIFF	Measure of expression divergence
+gene	Gene name
+type	Gene type, CDS = coding sequence, others are RNA genes
+chromosome	Chromosome
+strand	DNA strand, 1 = plus, 0 = minus
+start	Start position of gene
+end	Stop position of gene
+num_exon	Number of exons
+len_exon	Length of exons
+pos_exon	Position of exons
+num_intron	Number of introns
+len_intron	Length of introns
+pos_intron	Position of introns
+num_5UTRintron	Number of 5' untranslated region intron
+len_5UTRintron	Length of 5' untranslated region intron
+pos_5UTRintron	Position of 5' untranslated region intron
+start_promoter	Start position of promoter
+end_promoter	End position of promoter
+overlap_promoter	Whether promoter overlaps with adjacent gene, 1=yes, 0=no
+len_promoter	Length (base pairs) promoter
+start_3end	Start of 3' untranslated region (UTR) of gene
+end_3end	End of 3' untranslated region of gene
+overlap_3end	Whether 3' untranslated region overlaps with adjacent gene, 1=yes, 0=no
+promoter_ARS	Whether promoter contains an autonomous replicating sequence (ARS), 1=yes, 0=no
+promoter_CEN	Whether promoter contains a centromere (CEN), 1=yes, 0=no
+promoter_LTR	Whether promoter contains an LTR transposon, 1=yes, 0=no
+promoter_long_terminal_repeat	Whether promoter contains a long terminal repeat (LTR), 1=yes, 0=no
+promoter_pseudogene	Whether promoter contains a psuedogene, 1=yes, 0=no
+promoter_telomere	Whether promoter contains a telomere, 1=yes, 0=no
+promoter_telomeric_repeat	Whether promoter contains a telomere repeat, 1=yes, 0=no
+promoter_transposable_element_gene	Whether promoter contains a transposable element gene, 1=yes, 0=no
+end_ARS	Whether 3' UTR contains an autonomous replicating sequence (ARS), 1=yes, 0=no
+end_CEN	Whether 3' UTR contains a centromere (CEN), 1=yes, 0=no
+end_LTR	Whether 3' UTR contains an LTR transposon, 1=yes, 0=no
+end_long_terminal_repeat	Whether 3' UTR contains a long terminal repeat (LTR), 1=yes, 0=no
+end_pseudogene	Whether 3' UTR contains a psuedogene, 1=yes, 0=no
+end_telomere	Whether 3' UTR contains a telomere, 1=yes, 0=no
+end_telomeric_repeat	Whether 3' UTR contains a telomere repeat, 1=yes, 0=no
+end_transposable_element_gene	Whether 3' UTR contains a transposable element gene, 1=yes, 0=no
+gene_ARS	Whether gene contains an autonomous replicating sequence (ARS), 1=yes, 0=no
+gene_CEN	Whether gene contains a centromere (CEN), 1=yes, 0=no
+gene_LTR	Whether gene contains an LTR transposon, 1=yes, 0=no
+gene_long_terminal_repeat	Whether gene contains a long terminal repeat (LTR), 1=yes, 0=no
+gene_pseudogene	Whether gene contains a psuedogene, 1=yes, 0=no
+gene_telomere	Whether gene contains a telomere, 1=yes, 0=no
+gene_telomeric_repeat	Whether gene contains a telomere repeat, 1=yes, 0=no
+gene_transposable_element_gene	Whether gene contains a transposable element gene, 1=yes, 0=no
+num_SNPs_promoter	Number of single nucleotide polymorphisms (SNPs) in the promoter region
+num_MIXED_promoter	Number of mixed variants (mostly insertions/deletions) in the promoter region
+frac_SNP_promoter	Fraction (number/length) of single nucleotide polymorphisms (SNPs) in the promoter region
+frac_MIXED_promoter	Fraction (number/length) of mixed variants (mostly insertions/deletions) in the promoter region
+YJF153_geno_SNP_promoter	Genotype of the YJF153 promoter SNP alleles separated by colons
+BC217_geno_SNP_promoter	Genotype of the BC217 promoter SNP alleles separated by colons
+YJF153_geno_MIXED_promoter	Genotype of the YJF153 promoter MIXED alleles separated by colons
+BC217_geno_MIXED_promoter	Genotype of the BC217 promoter MIXED alleles separated by colons
+dist_SNP_promoter	Distance between the SNPs separated by colons
+dist_MIXED_promoter	Distance between the MIXED alleles separated by colons
+num_SNPs_3end	Number of single nucleotide polymorphisms (SNPs) in the 3' UTR region
+num_MIXED_3end	Number of mixed variants (mostly insertions/deletions) in the 3' UTR region
+YJF153_geno_SNP_3end	Genotype of the YJF153 3' UTR SNP alleles separated by colons
+BC217_geno_SNP_3end	Genotype of the BC217 3' UTR SNP alleles separated by colons
+YJF153_geno_MIXED_3end	Genotype of the YJF153 3' UTR MIXED alleles separated by colons
+BC217_geno_MIXED_3end	Genotype of the BC217 3' UTR MIXED alleles separated by colons
+YJF153_promoter_ave_coverage	Average genome sequencing coverage of the promoter region
+YJF153_3end_ave_coverage	Average genome sequencing coverage of the 3' UTR region
+BC217_promoter_ave_coverage	Average genome sequencing coverage of the promoter region
+BC217_3end_ave_coverage	Average genome sequencing coverage of the 3' UTR region
+BC217_MQ_gene	Average mapping quality (large = higher quality) of the gene region
+YJF153_MQ_gene	Average mapping quality (large = higher quality) of the gene region
+num_SNPs_gene	Number of single nucleotide polymorphisms (SNPs) in the gene (CDS) region
+YJF153_geno_SNPs_gene	Genotype of the YJF153 gene SNP alleles separated by colons
+BC217_geno_SNPs_gene	Genotype of the BC217 gene SNP alleles separated by colons
+dist_SNPs_gene	Distance between the SNPs separated by colons
+num_MIXED_gene	Number of mixed variants (mostly insertions/deletions) in the gene (CDS) region
+YJF153_geno_MIXED_gene	Genotype of the YJF153 gene MIXED alleles separated by colons
+BC217_geno_MIXED_gene	Genotype of the BC217 gene MIXED alleles separated by colons
+dist_MIXED_gene	Distance between the MIXED alleles separated by colons
+diff_len_g	Difference in the length of the gene region (YJF153-BC217)
+diff_len_p	Difference in the length of the promoter region (YJF153-BC217)
+diff_len_end	Difference in the length of the 3' UTR region (YJF153-BC217)
