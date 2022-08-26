@@ -22,7 +22,7 @@ division, else they will be in the open division.
     than this.
 2.  General questions/problems can be directed to [issues](https://github.com/Rochester-Biomedical-DS/Hackathon-Summer-2022/issues) page.  We encourage other hackathon participants to respond to issues.
 3.  The scoreboard will be located
-    [here](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2022/Leaderboard.html), and will be updated starting noon on 8/23.
+    [here](docs/Leaderboard.pdf), and will be updated starting noon on 8/23.
     We  cannot provide support
     beyond the diagnostic output included on the scoreboard if an error is
     encountered in scoring your predictions.
