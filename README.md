@@ -1,6 +1,6 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2022
 
-Data are now live
+The hackathon is now completed and final scores are posted.
 
 # Logistics
 
@@ -44,7 +44,30 @@ The goal of this hackathon is to predict gene expression differences based on va
 2.  Second place in each division: 0 + $50*(team size)
 1.  Predictions will be scored based on mean square error, lower
 values are better.
-1.  In order to claim your prize, you will need to fill out a post-competition survey that will be available on 8/26.
+
+# Winners!
+**Congratulations to the winning teams:**
+ * 1st place Undergraduate division- JY
+ * 2nd place Undergraduate division- jyon
+ 
+ * 1st place Open division - DMMH 
+ * 2nd place Open division- NASA
+
+If your team's final MSE was <2.089, your prediction beat random guessing and you will receive a prize! 
+* All individuals in the following teams will receive a prize: DMMH, NASA, BrownMunde, Minoans, RZ, JY, bobatea, QQ, Rabbits, FOMO - Fear Of Model Overfitting, JYon, Chien Bae Lee and Potter Ltd, HungryHippos, gz624, mynameistina, CookieMonster, I, LL, ABE, Midnight Chasers
+
+In order to claim your prize, you will need to fill out a [post-competition survey](https://forms.gle/t1CRCvWjdr3WRah48) and [prize information form](https://forms.gle/sTAiRFjQ4kxwRdwq9).
+
+In addition, winning teams will have the opportunity to present their solutions at a meeting of participants and faculty this fall. All teams that submit predictions may receive a participation certificate and teams beating random guessing are eligible for a participation prize to be announced after the completion of the hackathon. 
+
+
+# Feedback and post-event information
+Thank you for participating in this competition! We hope that you enjoyed the event. Please give us feedback so that we can improve future events.
+
+**Fill out the post-competition [survey](https://forms.gle/t1CRCvWjdr3WRah48).** 
+* If your team submitted predictions and you would like to receive a certificate of participation, please e-mail alarracu@bio.rochester.edu. 
+* Some of the winning teams will present their approach to the hackathon in an upcoming meeting of the GIDS working group in life and biomedical data science. You are all invited. Details about the meeting will come via e-mail once it is scheduled.
+
 
 In addition, winning teams will have the opportunity to present their solutions at a meeting of participants and faculty this fall. All teams that submit predictions may receive a participation certificate and teams beating random guessing are eligible for a participation prize to be announced after the completion of the hackathon. 
 
