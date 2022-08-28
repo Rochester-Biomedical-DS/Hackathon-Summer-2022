@@ -58,17 +58,14 @@ If your team's final MSE was <2.089, your prediction beat random guessing and yo
 
 In order to claim your prize, you will need to fill out a [post-competition survey](https://forms.gle/t1CRCvWjdr3WRah48) and [prize information form](https://forms.gle/sTAiRFjQ4kxwRdwq9).
 
-In addition, winning teams will have the opportunity to present their solutions at a meeting of participants and faculty this fall. All teams that submit predictions may receive a participation certificate and teams beating random guessing are eligible for a participation prize to be announced after the completion of the hackathon. 
-
 
 # Feedback and post-event information
-Thank you for participating in this competition! We hope that you enjoyed the event. Please give us feedback so that we can improve future events.
+Thank you for participating in this competition! We hope that you enjoyed the event. Please give us feedback so that we can improve future events. All teams that submit predictions may receive a participation certificate. Please e-mail alarracu at bio.rochester.edu for your certificate.
 
 **Fill out the post-competition [survey](https://forms.gle/t1CRCvWjdr3WRah48).** 
 * If your team submitted predictions and you would like to receive a certificate of participation, please e-mail alarracu@bio.rochester.edu. 
 * Some of the winning teams will present their approach to the hackathon in an upcoming meeting of the GIDS working group in life and biomedical data science. You are all invited. Details about the meeting will come via e-mail once it is scheduled.
 
 
-In addition, winning teams will have the opportunity to present their solutions at a meeting of participants and faculty this fall. All teams that submit predictions may receive a participation certificate and teams beating random guessing are eligible for a participation prize to be announced after the completion of the hackathon. 
 
 
